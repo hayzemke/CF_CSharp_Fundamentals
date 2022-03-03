@@ -6,6 +6,8 @@
     <RootNamespace>_01_Variables</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <noWarn>CS8600</noWarn>
+    
   </PropertyGroup>
 
 </Project>
